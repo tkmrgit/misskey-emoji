@@ -1,2 +1,2 @@
 ## Misskey emoji
-user emoji list
+custom emoji list
